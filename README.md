@@ -5,7 +5,7 @@
 
 一个**单文件、零依赖、完全离线**的原创音乐可视化作品。整首曲子的乐谱与全部音色都由浏览器用 Web Audio **实时合成**，画面由 Canvas **实时绘制**——没有任何外部音频、图片或字体文件。
 
-**▶ 在线播放：** https://stephenyuuu.github.io/light-loom/
+**▶ 在线播放：** https://sgaofen.github.io/light-loom/
 
 或下载 [`index.html`](index.html) 双击用 Chrome / Edge / Safari 打开即可。
 
