@@ -1,0 +1,12 @@
+# 大体积渲染产物 / 开发文件，不入库（Pages 只需 index.html）
+render.wav
+织光_MV.mp4
+serve.py
+server.log
+analyze.py
+diagnose.py
+publish.sh
+analysis.png
+shot-*.jpeg
+关于这首曲子.txt
+.playwright-mcp/
